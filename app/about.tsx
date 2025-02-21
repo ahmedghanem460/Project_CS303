@@ -7,6 +7,8 @@ const teamMembers = [
   { name: 'زياد احمد صبري', id: '2227298', email: 'Ziada9703@gmail.com', github: 'https://github.com/ziad785' },
   { name: 'احمد ايمن', id: '2227295', email: 'ahmedaymanmido307@gmail.com', github: '' },
   { name: 'كريم وحيد', id: '2227295', email: 'karimwaheed263@gmail.com', github: '' },
+  { name: 'احمد غانم', id: '2227009', email: 'karimwaheed263@gmail.com', github: '' },
+  { name: ' محمد ياسر', id: '2227283', email: 'karimwaheed263@gmail.com', github: '' },
 
 ];
 
