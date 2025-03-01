@@ -8,7 +8,7 @@ export default function Index() {
     <View style={styles.container}>
       <Text style={styles.text}>
       We are a team of passionate developers working on this exciting project
-      our goal is to create an app about Educational platform
+      our goal is to create an app about Educational platform 
       </Text>
       <View style={styles.imageContainer}>
         <Image source={PlaceholderImage} style={styles.image} />

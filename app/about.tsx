@@ -2,12 +2,12 @@ import { View, Text, StyleSheet, ScrollView } from 'react-native';
 
 const teamMembers = [
   { name: 'Ahmed mohamed',   id: '2227009', email: 'ahmedmohamedghanem083@gmail.com' },
-  { name: 'Yousef hesham',   id: '2227049', email: 'he was sleep so i can not know from him' },
   { name: 'Kareem abdullah', id: '2227252', email:'bambokareem72@gmail.com'},
+  { name: 'Yousef hesham',   id: '2227049', email: 'youseefhisham9@gmail.com'},
   { name: 'Ziad ahmed',      id: '2227298', email: 'Ziada9703@gmail.com'},
+  { name: 'Amr ahmed',       id: '2227009', email: 'amrahmed757574@gmail.com'},
   { name: 'Ahmed aymen',     id: '2227295', email: 'ahmedaymanmido307@gmail.com'},
   { name: 'Kareem waheed',   id: '2127238', email: 'karimwaheed263@gmail.com'},
-  { name: 'Amr ahmed',       id: '2227009', email: 'amrahmed757574@gmail.com'},
   { name: ' Mohamed yasser', id: '2227283', email: 'mohamedyasserelhwary813@gmail.com'},
 
 ];
